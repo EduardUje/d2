@@ -87,4 +87,5 @@ docker run mosint --help
 # Screen
 
 [![mosint](https://asciinema.org/a/609038.svg)](https://asciinema.org/a/609038)
+go install -v github.com/alpkeskin/mosint/v3/cmd/mosint@latest
 
